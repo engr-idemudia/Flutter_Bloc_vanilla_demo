@@ -1,16 +1,3 @@
-# flutter_bloc_vanilla_project
+# flutter_bloc_vanilla_project. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Implementing the BLOC pattern architecture on the flutter default app. Only by using the low level vanilla-flower approach, with only the use of streams Controllers, streams and sinks as in contrast with using the BLOC library. This is to understands the full underlying implementations of flutter Bloc from scratch.
